@@ -1,0 +1,24 @@
+{
+  "name": "basic-dev-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodejs16.js",
+  "scripts": {
+    "16": "node nodejs16.mjs",
+    "22": "node nodejs22.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxranderson/basic-dev-container.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxranderson/basic-dev-container/issues"
+  },
+  "homepage": "https://github.com/Maxranderson/basic-dev-container#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
